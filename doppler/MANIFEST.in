@@ -1,0 +1,4 @@
+include README.rst
+include doppler/LUT/*
+include doppler/LUT/rain/*
+include doppler/LUT/snow/*
